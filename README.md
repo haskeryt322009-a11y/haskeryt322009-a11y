@@ -6,3 +6,4 @@
 - 🌐 [About-me-website](https://haskeryt322009-a11y.github.io/About-me-website/) – my personal website
 - ☁️ [Weather-app](https://haskeryt322009-a11y.github.io/Weather/) – view current weather by city name
 - ✈️ [Project-SCSS](https://haskeryt322009-a11y.github.io/Project-SCSS/) - a travel website project (built with SCSS, responsive layout, UI practice, BEM methodology used)
+- 🎨 [Random-color](https://haskeryt322009-a11y.github.io/Random-color/) – a small TypeScript project that generates random RGB colors on button click
